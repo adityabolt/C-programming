@@ -2,7 +2,7 @@
 int isPrime(int n,int k);
 int main()
 {
-  int n,sum;
+  int n;
   printf("Enter a number ");
   scanf("%d",&n);
   if(isPrime(n,2)==1)
