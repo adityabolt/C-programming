@@ -1,0 +1,17 @@
+t20 chennai 22/4/2019 csk rcb 2 1
+Batting
+raina.s 100 53 186.79
+dhoni.m 56 23 243.48
+k.jadhav 34 34 100.00
+ms.jadeja 23 5 460.00
+Bowling
+ashwin.m 34 4 2 8.5
+d.chahar 29 2 5 14.5
+Batting 2
+v.kohli 87 23 378.26
+ab.devillers 45 19 236.84
+m.pandey 24 21 114.29
+c.gayle 6 2 300.00
+Bowling 2
+u.yadhav 36 4 4 7.5
+d.chahal 23 3 3 11.5
